@@ -3,12 +3,12 @@
     min-width: 10rem;
     min-height: 8rem;
     background-color: lavender;
-    margin-right: 25px;
+    margin-bottom: 32px;
 }
 .p {
     display: inline-block;
     min-width: 10rem;
     min-height: 8rem;
     background-color: aqua;
-    margin-left: 25px;
+    margin-top: 32px;
 }
